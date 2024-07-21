@@ -1,5 +1,5 @@
 
-fun main(){
+fun main() {
 
     // Формирование сообщений для пользователя
     val userName = "Alice"
