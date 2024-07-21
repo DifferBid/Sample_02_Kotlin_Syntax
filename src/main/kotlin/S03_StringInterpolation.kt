@@ -1,5 +1,5 @@
 
-fun main ( array: Array<String>){
+fun main (){
 
     // Вставка переменных в строку
     val name = "Victor"
